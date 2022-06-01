@@ -17,6 +17,7 @@ Instalando Wordpress con Azzure
 
 **Imagen 3**
 
-####Created by Jose Alebrto Martinez Villanueva
-
-####[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-alberto-martinez-villanueva-98ba9919)
+Created by: Jose Alebrto Martinez Villanueva 
+[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-alberto-martinez-villanueva-98ba9919)
+[Facebook](https://www.facebook.com/jamartinezv)
+[Twitter](https://twitter.com/pepe_beto)
